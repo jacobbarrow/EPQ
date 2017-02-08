@@ -7,10 +7,17 @@ A NN AI for Generals.io
 2. `pip install -r requirements.txt`
 3. python main.py
 
+## Usage
+1. Wait for map to finish drawing
+2. Click 'New Game' & wait for someone to join (or go to http://bot.generals.io/ and play 1v1 to match with it)
+
+Currently there is no way to move the player's army, only watch as it is eventually defeated by the opponent.
+
 ## TODO
 - [ ] Actually implement NN AI  
 - [ ] Rotate map  
 - [ ] More options on config panel  
 - [ ] Comment Code
+- [ ] Colour code for the map
 
 
