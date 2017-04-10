@@ -20,7 +20,6 @@ class Gui(Frame):
         self.cell_wraps = [[-3 for x in range(b_cells)] for y in range(b_cells)]
         self.cells = [[0 for x in range(b_cells)] for y in range(b_cells)]
 
-
         self.root.resizable(width=False, height=False)
         self.root.geometry('1300x{0}'.format(b_width))
         default_font = tkFont.nametofont("TkDefaultFont")

@@ -1,0 +1,11 @@
+fog_obstacle = -7
+fog = -6
+mountain = -5
+enemy_general = -4
+enemy_city = -3
+enemy = -2
+city = -1
+empty = 0
+own = 1
+own_city = 2
+own_general = 3
