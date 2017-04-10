@@ -2,3 +2,6 @@
 **/training
 *.pyc
 **/generals.io-Replay-Utils-master
+test.py
+convert_training_data.py
+join_training_data.py

@@ -1,0 +1,165 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+EMPTY	../generals.py	/^EMPTY = -1$/;"	kind:variable	line:8
+ENABLE_USER_SITE	../venv/lib/python2.7/site.py	/^ENABLE_USER_SITE = None$/;"	kind:variable	line:81
+ENCODING	../venv/bin/wsdump.py	/^ENCODING = get_encoding()$/;"	kind:variable	line:29
+FOG	../generals.py	/^FOG = -3$/;"	kind:variable	line:10
+Generals	../generals.py	/^class Generals(object):$/;"	kind:class	line:24
+Gui	../gui.py	/^class Gui(Frame):$/;"	kind:class	line:10
+InteractiveConsole	../venv/bin/wsdump.py	/^class InteractiveConsole(RawInput, code.InteractiveConsole):$/;"	kind:class	line:90
+MAXLINES	../venv/lib/python2.7/site.py	/^    MAXLINES = 23$/;"	kind:variable	line:412
+MOUNTAIN	../generals.py	/^MOUNTAIN = -2$/;"	kind:variable	line:9
+ModuleType	../venv/lib/python2.7/site.py	/^    ModuleType = type(os)$/;"	kind:variable	line:90
+NonInteractive	../venv/bin/wsdump.py	/^class NonInteractive(RawInput):$/;"	kind:class	line:103
+OBSTACLE	../generals.py	/^OBSTACLE = -4$/;"	kind:variable	line:11
+OPCODE_DATA	../venv/bin/wsdump.py	/^OPCODE_DATA = (websocket.ABNF.OPCODE_TEXT, websocket.ABNF.OPCODE_BINARY)$/;"	kind:variable	line:28
+PREFIXES	../venv/lib/python2.7/site.py	/^PREFIXES = [sys.prefix, sys.exec_prefix]$/;"	kind:variable	line:78
+Quitter	../venv/lib/python2.7/site.py	/^    class Quitter(object):$/;"	kind:class	line:391
+RawInput	../venv/bin/wsdump.py	/^class RawInput:$/;"	kind:class	line:74
+TOWN	../generals.py	/^TOWN = 2$/;"	kind:variable	line:12
+USER_BASE	../venv/lib/python2.7/site.py	/^USER_BASE = None$/;"	kind:variable	line:84
+USER_SITE	../venv/lib/python2.7/site.py	/^USER_SITE = None$/;"	kind:variable	line:83
+VAction	../venv/bin/wsdump.py	/^class VAction(argparse.Action):$/;"	kind:class	line:32
+_Helper	../venv/lib/python2.7/site.py	/^class _Helper(object):$/;"	kind:class	line:494
+_Printer	../venv/lib/python2.7/site.py	/^class _Printer(object):$/;"	kind:class	line:408
+_REPLAY_URL	../generals.py	/^_REPLAY_URL = "http:\/\/bot.generals.io\/replays\/"$/;"	kind:variable	line:15
+_RESULTS	../generals.py	/^_RESULTS = {$/;"	kind:variable	line:17
+__call__	../venv/bin/wsdump.py	/^    def __call__(self, parser, args, values, option_string=None):$/;"	kind:member	line:34
+__call__	../venv/lib/python2.7/site.py	/^        def __call__(self, code=None):$/;"	kind:member	line:396
+__call__	../venv/lib/python2.7/site.py	/^    def __call__(self):$/;"	kind:member	line:449
+__call__	../venv/lib/python2.7/site.py	/^    def __call__(self, *args, **kwds):$/;"	kind:member	line:503
+__init__	../generals.py	/^    def __init__(self, userid, username, mode="1v1", gameid=None,$/;"	kind:member	line:27
+__init__	../gui.py	/^    def __init__(self, root, username):$/;"	kind:member	line:11
+__init__	../venv/lib/python2.7/site.py	/^        def __init__(self, name):$/;"	kind:member	line:392
+__init__	../venv/lib/python2.7/site.py	/^    def __init__(self, name, data, files=(), dirs=()):$/;"	kind:member	line:414
+__init__.py	../venv/lib/python2.7/distutils/__init__.py	1;"	kind:file	line:1
+__repr__	../venv/lib/python2.7/site.py	/^        def __repr__(self):$/;"	kind:member	line:394
+__repr__	../venv/lib/python2.7/site.py	/^    def __repr__(self):$/;"	kind:member	line:442
+__repr__	../venv/lib/python2.7/site.py	/^    def __repr__(self):$/;"	kind:member	line:500
+__revision__	../venv/lib/python2.7/distutils/__init__.py	/^        __revision__ = real_distutils.__revision__$/;"	kind:variable	line:20
+__setup	../venv/lib/python2.7/site.py	/^    def __setup(self):$/;"	kind:member	line:421
+__version__	../venv/lib/python2.7/distutils/__init__.py	/^    __version__ = real_distutils.__version__$/;"	kind:variable	line:23
+_apply_diff	../generals.py	/^def _apply_diff(cache, diff):$/;"	kind:function	line:190
+_init_pathinfo	../venv/lib/python2.7/site.py	/^def _init_pathinfo():$/;"	kind:function	line:143
+_is_64bit	../venv/lib/python2.7/site.py	/^_is_64bit = (getattr(sys, 'maxsize', None) or getattr(sys, 'maxint')) > 2**32$/;"	kind:variable	line:86
+_is_pypy	../venv/lib/python2.7/site.py	/^_is_pypy = hasattr(sys, 'pypy_version_info')$/;"	kind:variable	line:87
+_make_result	../generals.py	/^    def _make_result(self, update, data):$/;"	kind:member	line:156
+_make_update	../generals.py	/^    def _make_update(self, data):$/;"	kind:member	line:120
+_script	../venv/lib/python2.7/site.py	/^def _script():$/;"	kind:function	line:705
+_send	../generals.py	/^    def _send(self, msg):$/;"	kind:member	line:176
+_spawn	../generals.py	/^def _spawn(f):$/;"	kind:function	line:184
+_start_sending_heartbeat	../generals.py	/^    def _start_sending_heartbeat(self):$/;"	kind:member	line:167
+abs__file__	../venv/lib/python2.7/site.py	/^def abs__file__():$/;"	kind:function	line:100
+activate_this.py	../venv/bin/activate_this.py	1;"	kind:file	line:1
+addbuilddir	../venv/lib/python2.7/site.py	/^def addbuilddir():$/;"	kind:function	line:133
+addpackage	../venv/lib/python2.7/site.py	/^def addpackage(sitedir, name, known_paths):$/;"	kind:function	line:155
+addsitedir	../venv/lib/python2.7/site.py	/^def addsitedir(sitedir, known_paths=None):$/;"	kind:function	line:186
+addsitepackages	../venv/lib/python2.7/site.py	/^def addsitepackages(known_paths, sys_prefix=sys.prefix, exec_prefix=sys.exec_prefix):$/;"	kind:function	line:209
+addusersitepackages	../venv/lib/python2.7/site.py	/^def addusersitepackages(known_paths):$/;"	kind:function	line:309
+aliasmbcs	../venv/lib/python2.7/site.py	/^def aliasmbcs():$/;"	kind:function	line:510
+base	../venv/bin/activate_this.py	/^base = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:18
+basestring	../venv/lib/python2.7/distutils/__init__.py	/^    basestring = str$/;"	kind:variable	line:30
+build_ext	../venv/lib/python2.7/distutils/__init__.py	/^    class build_ext(old_build_ext):$/;"	kind:class	line:37
+cell_value	../convert_training_data.py	/^                        cell_value = giotile_grid[y][x]$/;"	kind:variable	line:124
+check_enableusersite	../venv/lib/python2.7/site.py	/^def check_enableusersite():$/;"	kind:function	line:285
+city	../tile_values.py	/^city = -1$/;"	kind:variable	line:7
+close	../generals.py	/^    def close(self):$/;"	kind:member	line:117
+convert_training_data.py	../convert_training_data.py	1;"	kind:file	line:1
+dirname	../venv/lib/python2.7/distutils/__init__.py	/^dirname = os.path.dirname$/;"	kind:variable	line:9
+distutils_path	../venv/lib/python2.7/distutils/__init__.py	/^distutils_path = os.path.join(os.path.dirname(opcode.__file__), 'distutils')$/;"	kind:variable	line:11
+empty	../tile_values.py	/^empty = 0$/;"	kind:variable	line:8
+enemy	../convert_training_data.py	/^enemy = 0$/;"	kind:variable	line:62
+enemy	../tile_values.py	/^enemy = -2$/;"	kind:variable	line:6
+enemy_city	../tile_values.py	/^enemy_city = -3$/;"	kind:variable	line:5
+enemy_general	../tile_values.py	/^enemy_general = -4$/;"	kind:variable	line:4
+errors	../convert_training_data.py	/^errors = 0$/;"	kind:variable	line:66
+execsitecustomize	../venv/lib/python2.7/site.py	/^def execsitecustomize():$/;"	kind:function	line:545
+execusercustomize	../venv/lib/python2.7/site.py	/^def execusercustomize():$/;"	kind:function	line:660
+exists	../venv/lib/python2.7/site.py	/^        def exists(path):$/;"	kind:function	line:726
+finalize_options	../venv/lib/python2.7/distutils/__init__.py	/^        def finalize_options (self):$/;"	kind:member	line:38
+find_config_files	../venv/lib/python2.7/distutils/__init__.py	/^def find_config_files(self):$/;"	kind:function	line:53
+fixclasspath	../venv/lib/python2.7/site.py	/^def fixclasspath():$/;"	kind:function	line:646
+fog	../tile_values.py	/^fog = -6$/;"	kind:variable	line:2
+fog_obstacle	../tile_values.py	/^fog_obstacle = -7$/;"	kind:variable	line:1
+force_global_eggs_after_local_site_packages	../venv/lib/python2.7/site.py	/^def force_global_eggs_after_local_site_packages():$/;"	kind:function	line:627
+game_loop	../gui.py	/^    def game_loop(self, event):$/;"	kind:member	line:97
+generals.py	../generals.py	1;"	kind:file	line:1
+get_encoding	../venv/bin/wsdump.py	/^def get_encoding():$/;"	kind:function	line:20
+get_next_move	../neuralnetwork.py	/^def get_next_move(tile_grid, army_grid):$/;"	kind:function	line:6
+get_update	../generals.py	/^    def get_update(self):$/;"	kind:member	line:77
+get_visible_cells	../convert_training_data.py	/^def get_visible_cells(tile_grid):$/;"	kind:function	line:41
+gioarmy_grid	../convert_training_data.py	/^                gioarmy_grid = split_list(giomove['army_grid'], width)$/;"	kind:variable	line:112
+gioreplay	../convert_training_data.py	/^        gioreplay = json.load(gioreplay_file)$/;"	kind:variable	line:74
+giotile_grid	../convert_training_data.py	/^                giotile_grid = split_list(giomove['tile_grid'], width)$/;"	kind:variable	line:113
+gui.py	../gui.py	1;"	kind:file	line:1
+height	../convert_training_data.py	/^            height = gioreplay['height']$/;"	kind:variable	line:84
+index_error	../convert_training_data.py	/^                            index_error = True$/;"	kind:variable	line:141
+index_error	../convert_training_data.py	/^                        index_error = True$/;"	kind:variable	line:131
+index_error	../convert_training_data.py	/^    index_error = False$/;"	kind:variable	line:69
+joinuser	../venv/lib/python2.7/site.py	/^    def joinuser(*args):$/;"	kind:function	line:324
+main	../venv/bin/wsdump.py	/^def main():$/;"	kind:function	line:114
+main	../venv/lib/python2.7/site.py	/^def main():$/;"	kind:function	line:668
+main.py	../main.py	1;"	kind:file	line:1
+main_gui	../main.py	/^main_gui = gui.Gui(gui.root, 'J Bot')$/;"	kind:variable	line:4
+makepath	../venv/lib/python2.7/site.py	/^def makepath(*paths):$/;"	kind:function	line:92
+mountain	../tile_values.py	/^mountain = -5$/;"	kind:variable	line:3
+move	../convert_training_data.py	/^                move = {$/;"	kind:variable	line:105
+move	../generals.py	/^    def move(self, y1, x1, y2, x2, move_half=False):$/;"	kind:member	line:67
+n_to_coord	../convert_training_data.py	/^def n_to_coord(map_width, map_height, number):$/;"	kind:function	line:35
+neuralnetwork.py	../neuralnetwork.py	1;"	kind:file	line:1
+new_sys_path	../venv/bin/activate_this.py	/^new_sys_path = []$/;"	kind:variable	line:29
+old_find_config_files	../venv/lib/python2.7/distutils/__init__.py	/^old_find_config_files = dist.Distribution.find_config_files$/;"	kind:variable	line:52
+old_get_config_vars	../venv/lib/python2.7/distutils/__init__.py	/^old_get_config_vars = sysconfig.get_config_vars$/;"	kind:variable	line:90
+old_get_python_inc	../venv/lib/python2.7/distutils/__init__.py	/^old_get_python_inc = sysconfig.get_python_inc$/;"	kind:variable	line:74
+old_get_python_lib	../venv/lib/python2.7/distutils/__init__.py	/^old_get_python_lib = sysconfig.get_python_lib$/;"	kind:variable	line:82
+old_os_path	../venv/bin/activate_this.py	/^old_os_path = os.environ.get('PATH', '')$/;"	kind:variable	line:16
+own	../tile_values.py	/^own = 1$/;"	kind:variable	line:9
+own_city	../tile_values.py	/^own_city = 2$/;"	kind:variable	line:10
+own_general	../tile_values.py	/^own_general = 3$/;"	kind:variable	line:11
+parse_args	../venv/bin/wsdump.py	/^def parse_args():$/;"	kind:function	line:44
+player	../convert_training_data.py	/^player = 1$/;"	kind:variable	line:61
+prev_sys_path	../venv/bin/activate_this.py	/^prev_sys_path = list(sys.path)$/;"	kind:variable	line:23
+raw_input	../venv/bin/wsdump.py	/^    def raw_input(self, prompt):$/;"	kind:member	line:76
+read	../venv/bin/wsdump.py	/^    def read(self):$/;"	kind:member	line:110
+read	../venv/bin/wsdump.py	/^    def read(self):$/;"	kind:member	line:99
+real_distutils	../venv/lib/python2.7/distutils/__init__.py	/^    real_distutils = imp.load_module("_virtualenv_distutils", None, distutils_path, ('', '', imp.PKG_DIRECTORY))$/;"	kind:variable	line:17
+recv	../venv/bin/wsdump.py	/^    def recv():$/;"	kind:function	line:140
+recv_ws	../venv/bin/wsdump.py	/^    def recv_ws():$/;"	kind:function	line:158
+removeduppaths	../venv/lib/python2.7/site.py	/^def removeduppaths():$/;"	kind:function	line:113
+replay	../convert_training_data.py	/^            replay = {$/;"	kind:variable	line:95
+replay_id	../convert_training_data.py	/^replay_id = 0$/;"	kind:variable	line:65
+root	../gui.py	/^root = Tk()$/;"	kind:variable	line:123
+setBEGINLIBPATH	../venv/lib/python2.7/site.py	/^def setBEGINLIBPATH():$/;"	kind:function	line:362
+setcopyright	../venv/lib/python2.7/site.py	/^def setcopyright():$/;"	kind:function	line:472
+setencoding	../venv/lib/python2.7/site.py	/^def setencoding():$/;"	kind:function	line:525
+sethelper	../venv/lib/python2.7/site.py	/^def sethelper():$/;"	kind:function	line:507
+setquit	../venv/lib/python2.7/site.py	/^def setquit():$/;"	kind:function	line:379
+site.py	../venv/lib/python2.7/site.py	1;"	kind:file	line:1
+site_packages	../venv/bin/activate_this.py	/^    site_packages = os.path.join(base, 'Lib', 'site-packages')$/;"	kind:variable	line:20
+site_packages	../venv/bin/activate_this.py	/^    site_packages = os.path.join(base, 'lib', 'python%s' % sys.version[:3], 'site-packages')$/;"	kind:variable	line:22
+split_list	../convert_training_data.py	/^def split_list(alist, wanted_parts):$/;"	kind:function	line:29
+sysconfig_get_config_vars	../venv/lib/python2.7/distutils/__init__.py	/^def sysconfig_get_config_vars(*args):$/;"	kind:function	line:91
+sysconfig_get_python_inc	../venv/lib/python2.7/distutils/__init__.py	/^def sysconfig_get_python_inc(plat_specific=0, prefix=None):$/;"	kind:function	line:75
+sysconfig_get_python_lib	../venv/lib/python2.7/distutils/__init__.py	/^def sysconfig_get_python_lib(plat_specific=0, standard_lib=0, prefix=None):$/;"	kind:function	line:83
+test.py	../test.py	1;"	kind:file	line:1
+tile_colours	../gui.py	/^tile_colours = {1:'red', 0:'blue', -1:'white', -2:'#ccc', -3:'#555', -4:'#000', 2:'green'}$/;"	kind:variable	line:7
+tile_values.py	../tile_values.py	1;"	kind:file	line:1
+train	../neuralnetwork.py	/^def train(game):$/;"	kind:function	line:25
+update_board	../gui.py	/^    def update_board(self, data):$/;"	kind:member	line:83
+virtual_addsitepackages	../venv/lib/python2.7/site.py	/^def virtual_addsitepackages(known_paths):$/;"	kind:function	line:642
+virtual_install_main_packages	../venv/lib/python2.7/site.py	/^def virtual_install_main_packages():$/;"	kind:function	line:552
+visible_cells	../convert_training_data.py	/^                visible_cells = get_visible_cells(giotile_grid)$/;"	kind:variable	line:115
+weight	../convert_training_data.py	/^                weight = -1 + 10 ** (-100.0\/gioreplay['total_turns'])$/;"	kind:variable	line:91
+weight	../convert_training_data.py	/^                weight = 1 - 10 ** (-100.0\/(gioreplay['total_turns']))$/;"	kind:variable	line:89
+width	../convert_training_data.py	/^            width = gioreplay['width']$/;"	kind:variable	line:83
+won	../convert_training_data.py	/^                won = False$/;"	kind:variable	line:80
+won	../convert_training_data.py	/^                won = True$/;"	kind:variable	line:78
+write	../venv/bin/wsdump.py	/^    def write(self, data):$/;"	kind:member	line:105
+write	../venv/bin/wsdump.py	/^    def write(self, data):$/;"	kind:member	line:92
+wsdump.py	../venv/bin/wsdump.py	1;"	kind:file	line:1
+x	../convert_training_data.py	/^                    x = xy[0]$/;"	kind:variable	line:121
+y	../convert_training_data.py	/^                    y = xy[1]$/;"	kind:variable	line:122
