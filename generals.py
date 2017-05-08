@@ -1,3 +1,5 @@
+# This is a modified version of https://github.com/toshima/generalsio
+
 import logging
 import json
 import threading
