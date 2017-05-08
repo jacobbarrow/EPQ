@@ -14,10 +14,10 @@ A NN AI for Generals.io
 Currently there is no way to move the player's army, only watch as it is eventually defeated by the opponent.
 
 ## TODO
-- [ ] Actually implement NN AI  
-- [ ] Rotate map  
+- [x] Actually implement NN AI  
+- [x] Rotate map  
 - [ ] More options on config panel  
-- [ ] Comment Code
-- [ ] Colour code for the map
+- [x] Comment Code
+- [x] Colour code for the map
 
 
